@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Varnish Cache
  * Description: Manage the cache settings and perform purge operations
- * Version: 1.0.0
- * Author: HYKO
+ * Version: 1.0.1
+ * Author: Hyko
  * Author URI: https://hyko.cx
  * Text Domain: varnishcachewp
  * License: GPL-3.0+
